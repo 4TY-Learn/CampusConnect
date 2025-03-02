@@ -1,4 +1,4 @@
-# 4TY Learn
+# CampusConnect
 
 ## 🚀Messaging & Learning App!
 
