@@ -8,8 +8,8 @@
 
 ## 🛠 Built with Trusted Tech
 
-- **Frontend:** React.js
-- **Backend:** Node.js & Socket.IO for real-time messaging
+- **Frontend:** Flutter 
+- **Backend:** Dart, Python & Socket.IO for real-time messaging
 - **Database:** MongoDB for secure data storage
 - **Storage & Authentication:** Supabase integration for media and avatars
 - **State Management:** Redux for seamless user experience
