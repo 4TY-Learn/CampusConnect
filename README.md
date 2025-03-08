@@ -5,6 +5,49 @@
 CampusConnect is a powerful and feature-rich messaging and learning platform, designed to provide a seamless communication experience while integrating AI-powered study tools. Built using a modern tech stack, it ensures high performance, security, and scalability.
 
 ---
+# Team 4TY
+```
+CampusConnect/
+│── Frontend/ (Lead: Lames)
+│   ├── Figma_Design/
+│   │   ├── Shabab(Leader)
+│   │   ├── Vita
+│   │   ├── Wasay
+│   ├── Frontend_Development/
+│       ├── Lames(Leader)
+│       ├── Allen
+│       ├── Karl
+│       ├── Ali
+│       ├── Gordien
+│       ├── Haleem
+│
+│── Backend/ (Lead: Mahdi)
+│   ├── Backend_Development/
+│   │   ├── Mahdi(Leader)
+│   │   ├── Asfand
+│   │   ├── Ali
+│   │   ├── Saba
+│   ├── Database/
+│       ├── Ezeami(Leader)
+│       ├── Shabab
+│       ├── Sadman
+│       ├── Ajoy
+│
+│── AI/ (Lead: Taki)
+│   ├── Summarization_AI/
+│   │   ├── Adeel(Leader)
+│   │   ├── Adnan
+│   │   ├── Ahmad(Leader)
+│   │   ├── Tayyab
+│   │   ├── Kirtan
+│   │   ├── Baitik
+│   ├── Data_Extraction_AI/
+│       ├── Asir
+│       ├── Taki(Leader)
+│       ├── Vita
+│       ├── Saba
+│       ├── Saif 
+```
 
 ## 🛠 Built with Trusted Tech
 
